@@ -1,0 +1,28 @@
+/* styles.css */
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidenav-container {
+  height: 100%;
+}
+
+.content {
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.button-row {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
